@@ -20,7 +20,7 @@ import Memocomp from './Memocomp'
         },2000)
     }
   render() {
-    console.log("*********************Parent Component Render*************************")
+    console.log("*********************Parent Component Render*********************")
     return (
       <div>
         Parent Component 
